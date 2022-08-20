@@ -1,7 +1,7 @@
 # MetroPayApp
 
 ## Project
-Group project from second year of Bachelor's Degree studies OTP -course (Software production project). Developed in group of four students.
+Group project at second year of Bachelor's Degree studies during OTP -course (Software production project). Developed in group of four students.
 
 ## App
 MetroPay is banking application developed using Java. The application can be used to send money, receive money, buy, sell and send cryptocurrencies, browse transaction history and take up quickie loans. App has easy to use interface and its localized to four different languages. Interface has two different color themes too.
